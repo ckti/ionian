@@ -4,7 +4,7 @@ IonianOS
 --------
 Ionian OS is a collection of different Linux Distribution media with ionomy ioncoin software ready installed and updated automatially from the master ionomy ppa.  It is broken down into 4 different sets of images.
 
-1) Ionian ISO -- this is an install-to computer iso image that will install Ubuntu Ionian 16.04 to a local computer.  Available in both i386 and amd64 versions  
+1) Ionian ISO -- this is an install-to computer iso image that will install Ubuntu Ionian to a local computer.  Available in both i386 and amd64 versions  
 
 2) Ionian USB -- this is meant as a complete copy-and-run solution.  With this image you can run directly from the usb medium, also available in i386 and amd64 versions  
 
