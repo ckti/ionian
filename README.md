@@ -2,7 +2,7 @@ Ionian
 ========
 IonianOS
 --------
-Ionian OS is a collection of different Linux Distribution media with ionomy ioncoin software ready installed.  It is broken down into 5 different sets of images.
+Ionian OS is a collection of different Linux Distribution media with ionomy ioncoin software ready installed.  It is broken down into 5 different sets of images available at https://github.com/cevap/ionian/releases
 
 1) Ionian ISO -- this is an install-to computer iso image that will install Ubuntu Ionian to a local computer.  Available in both i386 and amd64 versions - updated automatically from the master ionomy ppa
 
