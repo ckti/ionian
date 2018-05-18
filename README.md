@@ -13,3 +13,9 @@ Ionian OS is a collection of different Linux Distribution media with ionomy ionc
 4) Ionian OS -- based on Gitian deterministic building https://github.com/cevap/ionian/releases/tag/v8.10
 
 5) Ionian Raspian -- Ready-to-run disk image for Raspberry Pi 3 https://github.com/cevap/ionian/releases/tag/Ionian-Raspian
+
+This repository also contains packages for:
+-------------------------------------------
+1) Fedora 26 & 27: i686, x86_64, armv7hl, aarch64 (Fedora 27 only), and source code
+2) Ubuntu/Armbian: armhf, and arm64
+3) Raspian stretch: armhf
